@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html lang="sl">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Application — Jan Lebar</title>
+    <title>Prijava — Jan Lebar</title>
 
     <!-- Reveal.js core CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css" />
@@ -45,7 +45,7 @@
           );
 
           if (vars.COMPANY_NAME) {
-            document.title = "Application to " + vars.COMPANY_NAME + " — Jan Lebar";
+            document.title = "Prijava k " + vars.COMPANY_NAME + " — Jan Lebar";
           }
 
           const section = document.createElement("section");
@@ -67,9 +67,9 @@
           });
         } catch (err) {
           slides.innerHTML =
-            "<section><h2>Could not load the presentation</h2>" +
-            "<p>Serve this folder over a local web server so " +
-            "<code>presentation.md</code> and <code>company.md</code> can be fetched, e.g. " +
+            "<section><h2>Predstavitve ni bilo mogoče naložiti</h2>" +
+            "<p>To mapo postrezite prek lokalnega spletnega strežnika, da se lahko naložita " +
+            "<code>presentation.md</code> in <code>company.md</code>, npr. " +
             "<code>python3 -m http.server</code>.</p><pre></pre></section>";
           slides.querySelector("pre").textContent = String(err);
         }

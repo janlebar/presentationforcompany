@@ -18,50 +18,50 @@
 SAFRA d.o.o.
 
 ## ROLE_TITLE
-Full-Stack Developer / Product Builder (AI-First)
+Full-stack razvijalec in ustvarjalec produktov (AI-first)
 
 ## WHY_HEADING
-Why SAFRA
+Zakaj SAFRA
 
 ## WHY_INTRO
-SAFRA is not an agency — it builds and owns its products. Its core product is a trading platform for investment gold, silver and other precious metals, built in partnership with many of the world's leading mints. That combination — <b>own product, real transactions, modern stack and an AI-first way of working</b> — is exactly the environment where I do my best work.
+SAFRA ni agencija — razvija in ima svoje produkte. Njen osrednji produkt je trgovalna platforma za naložbeno zlato, srebro in druge plemenite kovine, zgrajena v sodelovanju s številnimi vodilnimi svetovnimi kovnicami. Ta kombinacija — <b>lasten produkt, prave transakcije, sodobna tehnologija in AI-first način dela</b> — je točno okolje, v katerem delam najbolje.
 
 ## WHY_BULLETS
-- <span class="icon-blue"></span> <b>Own products, not client projects:</b> idea → build → launch → grow, with real ownership and the possibility of partnership
-- <span class="icon-blue"></span> A domain where <b>trust, accuracy and security</b> matter — pricing, orders and payments have to be right, not just look right
-- <span class="icon-blue"></span> <b>AI-first development</b> is encouraged, not tolerated — Cursor, Claude Code, ChatGPT and new tools are part of the process
-- <span class="icon-green"></span> Small team in Ljubljana, <b>hybrid work (3 + 2)</b>, direct impact and fast feedback
+- <span class="icon-blue"></span> <b>Lastni produkti, ne projekti za naročnike:</b> ideja → razvoj → lansiranje → rast, z resničnim lastništvom in možnostjo partnerstva
+- <span class="icon-blue"></span> Področje, kjer so <b>zaupanje, natančnost in varnost</b> ključni — cene, naročila in plačila morajo biti pravilni, ne le lepo videti
+- <span class="icon-blue"></span> <b>Razvoj z AI</b> je spodbujan, ne le toleriran — Cursor, Claude Code, ChatGPT in nova orodja so del procesa
+- <span class="icon-green"></span> Majhna ekipa v Ljubljani, <b>hibridno delo (3 + 2)</b>, neposreden vpliv in hitra povratna informacija
 
 ## WHY_NARRATIVE
-I am applying because SAFRA combines the two things I want in my next role: building a product of my own rather than delivering tickets for someone else's backlog, and using AI as a genuine multiplier while still understanding and owning the code that ships.
+Prijavljam se, ker SAFRA združuje dve stvari, ki si jih želim v naslednji vlogi: gradnjo lastnega produkta namesto dostavljanja nalog za tuj seznam nalog ter uporabo AI kot resničnega množitelja moči, pri čemer še vedno razumem kodo, ki gre v produkcijo, in prevzamem odgovornost zanjo.
 
-My background is a mix of design and engineering. I started in design and UX before moving into development, so I can take an idea, shape the product and UX, design the database and API, and ship the React/Next.js interface — end to end. I have built a two-sided marketplace with search, real-time chat, scheduling, roles, admin tooling and Stripe payments. That is close to the problems a precious-metals trading platform has: accounts and verification flows, live data, orders, payments, balances and an interface people must trust with money.
+Moje ozadje je mešanica oblikovanja in inženiringa. Začel sem v oblikovanju in UX, preden sem prešel v razvoj, zato lahko idejo vzamem, oblikujem produkt in uporabniško izkušnjo, zasnujem bazo in API ter dostavim vmesnik v Reactu/Next.js — od začetka do konca. Zgradil sem dvostransko tržnico z iskanjem, klepetom v realnem času, razporejanjem, vlogami, administrativnimi orodji in plačili Stripe. To je blizu izzivom, ki jih ima platforma za trgovanje s plemenitimi kovinami: računi in postopki preverjanja, živi podatki, naročila, plačila, stanja in vmesnik, ki mu morajo ljudje zaupati denar.
 
-I work AI-first every day. I use Cursor, Claude Code and ChatGPT to move faster, but I treat their output as a draft: I read it, test it, check edge cases, permissions and data integrity, and improve it. I am comfortable with TypeScript, React, Next.js, Node.js, Python, PostgreSQL and cloud deployment, and I am especially interested in LLM APIs, agents, RAG and MCP — the layer that can make a product like SAFRA smarter, not just prettier.
+Z AI delam vsak dan. Uporabljam Cursor, Claude Code in ChatGPT, da sem hitrejši, vendar njihov rezultat obravnavam kot osnutek: preberem ga, testiram, preverim robne primere, pravice in celovitost podatkov ter ga izboljšam. Dobro se znajdem s TypeScriptom, Reactom, Next.js, Node.js, Pythonom, PostgreSQL in objavo v oblaku, še posebej pa me zanimajo LLM API-ji, agenti, RAG in MCP — plast, ki lahko produkt, kot je SAFRA, naredi pametnejši, ne le lepši.
 
-What I can offer SAFRA is not just code: I will bring product ideas, question the flow, listen to users, measure what works and take responsibility for outcomes. I would like to grow with the product and, if I earn it, take a bigger stake in what we build.
+SAFRI ne ponujam le kode: prinesel bom produktne ideje, prevpraševal uporabniške tokove, prisluhnil uporabnikom, meril, kaj deluje, in prevzel odgovornost za rezultate. Rad bi rasel skupaj s produktom in si — če si to zaslužim — pridobil večji delež pri tem, kar gradimo.
 
 ## REQUIRED_HEADING
-What SAFRA Is Looking For
+Kaj SAFRA išče
 
 ## REQUIRED_ITEMS
-<li><b>Technical education</b> — Faculty of Natural Sciences; Master's degree (Liverpool, UK)</li>
-<li><b>JavaScript/TypeScript, HTML and CSS</b> — advanced, used daily</li>
-<li><b>React, Next.js and Tailwind</b> — production experience, including Next.js 15 App Router</li>
-<li><b>Backend:</b> Node.js, REST APIs, authentication and third-party integrations</li>
-<li><b>SQL and databases:</b> PostgreSQL, Prisma, schema design, indexing and query performance</li>
-<li><b>Git/GitHub</b> plus deployment: Linux, Docker, Fly.io, AWS, Cloudflare and Traefik</li>
-<li><b>AI tools in practice:</b> Cursor, Claude Code and ChatGPT — daily, with review of the output</li>
-<li><b>UX/UI sense</b> — design background and a habit of shipping user-friendly interfaces</li>
-<li><b>Debugging and independence</b> — reading unfamiliar code, finding the cause and fixing it</li>
+<li><b>Tehnična izobrazba</b> — Fakulteta za naravoslovje; magisterij (Liverpool, Združeno kraljestvo)</li>
+<li><b>JavaScript/TypeScript, HTML in CSS</b> — napredno znanje, vsakodnevna uporaba</li>
+<li><b>React, Next.js in Tailwind</b> — produkcijske izkušnje, tudi Next.js 15 App Router</li>
+<li><b>Backend:</b> Node.js, REST API-ji, avtentikacija in integracije tretjih strani</li>
+<li><b>SQL in baze podatkov:</b> PostgreSQL, Prisma, načrtovanje sheme, indeksi in zmogljivost poizvedb</li>
+<li><b>Git/GitHub</b> in izkušnje z objavo: Linux, Docker, Fly.io, AWS, Cloudflare in Traefik</li>
+<li><b>AI orodja v praksi:</b> Cursor, Claude Code in ChatGPT — dnevno, s pregledom rezultatov</li>
+<li><b>Občutek za UX/UI</b> — oblikovalsko ozadje in navada dostavljanja uporabniku prijaznih vmesnikov</li>
+<li><b>Odpravljanje napak in samostojnost</b> — branje neznane kode, iskanje vzroka in popravilo</li>
 
 ## PREFERRED_HEADING
-Bonus Points — What I Also Bring
+Dodatne prednosti — kaj še prinesem
 
 ## PREFERRED_ITEMS
-<li><b>Python</b> — Flask, FastAPI, data-processing scripts and web scraping</li>
-<li><b>Docker and Linux</b> — containerized services, systemd, reverse proxies and server setup</li>
-<li><b>LLM APIs and AI features</b> — assistants, embeddings, semantic search and RAG-style retrieval</li>
-<li><b>AI agents and MCP</b> — hands-on with agent workflows and tool integration</li>
-<li><b>Payments and integrations</b> — Stripe checkout and webhooks, e-mail, storage and maps</li>
-<li><b>Product mindset</b> — monetization, funnels, marketplace mechanics and a design eye</li>
+<li><b>Python</b> — Flask, FastAPI, skripti za obdelavo podatkov in spletno strganje</li>
+<li><b>Docker in Linux</b> — storitve v kontejnerjih, systemd, obratni proxyji in nastavitev strežnikov</li>
+<li><b>LLM API-ji in AI funkcije</b> — asistenti, vdelave, semantično iskanje in iskanje po načinu RAG</li>
+<li><b>AI agenti in MCP</b> — praktične izkušnje z agentskimi tokovi in integracijo orodij</li>
+<li><b>Plačila in integracije</b> — Stripe checkout in webhooki, e-pošta, shramba in zemljevidi</li>
+<li><b>Produktno razmišljanje</b> — monetizacija, lijaki, mehanika dvostranskih tržnic in oblikovalski občutek</li>
