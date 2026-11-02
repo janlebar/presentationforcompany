@@ -1,5 +1,10 @@
 /* Custom styling for reveal.js presentation */
 
+.reveal .slides section,
+.reveal .slides section * {
+    box-sizing: border-box;
+}
+
 .reveal .slides section {
     text-align: left;
     color: #ecf0f1;
@@ -76,6 +81,12 @@
     line-height: 1.5;
     color: #ecf0f1;
     font-size: 0.95em;
+}
+
+/* The generic "section > * { width: 100% }" rule must not apply to lists:
+   with their left margin it pushes them past the slide edge. */
+.reveal .slides section > ul {
+    width: auto;
 }
 
 .reveal li {

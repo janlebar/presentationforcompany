@@ -3,7 +3,7 @@
  COMPANY PROFILE - this is the ONLY file you edit per application.
 =====================================================================
  To apply to a new company:
-   1. Copy this whole folder and rename it (e.g. ACTAI -> NEWCOMPANY).
+   1. Copy this whole folder and rename it (e.g. SAFRA -> NEWCOMPANY).
    2. Edit only the text below each KEY heading.
    3. Leave the KEY headings (the lines that start with two hashes)
       exactly as they are.
@@ -15,48 +15,53 @@
 -->
 
 ## COMPANY_NAME
-Influee
+SAFRA d.o.o.
+
+## ROLE_TITLE
+Full-Stack Developer / Product Builder (AI-First)
 
 ## WHY_HEADING
-Why Influee
+Why SAFRA
 
 ## WHY_INTRO
-Influee is a fast-growing <b>UGC (User-Generated Content) platform</b> that connects brands and agencies directly with content creators across Europe and beyond — making it fast and affordable to produce authentic video ads that actually perform. As the product scales and media-heavy workflows grow, the team is expanding and needs a full-stack developer who can own features <b>from idea to production</b>.
+SAFRA is not an agency — it builds and owns its products. Its core product is a trading platform for investment gold, silver and other precious metals, built in partnership with many of the world's leading mints. That combination — <b>own product, real transactions, modern stack and an AI-first way of working</b> — is exactly the environment where I do my best work.
 
 ## WHY_BULLETS
-- <span class="icon-blue"></span> Mission: <b>democratise video ad creation</b> by connecting brands with creators across Europe
-- <span class="icon-blue"></span> Full-stack ownership: <b>PostgreSQL schema → API → polished React/Next.js UI</b>
-- <span class="icon-green"></span> Modern stack, <b>no legacy code</b> — latest Next.js, React Native and TypeScript
-- <span class="icon-blue"></span> Culture of <b>deep work</b> — minimal meetings, async communication and an <b>AI-first toolset</b> (Claude Code)
+- <span class="icon-blue"></span> <b>Own products, not client projects:</b> idea → build → launch → grow, with real ownership and the possibility of partnership
+- <span class="icon-blue"></span> A domain where <b>trust, accuracy and security</b> matter — pricing, orders and payments have to be right, not just look right
+- <span class="icon-blue"></span> <b>AI-first development</b> is encouraged, not tolerated — Cursor, Claude Code, ChatGPT and new tools are part of the process
+- <span class="icon-green"></span> Small team in Ljubljana, <b>hybrid work (3 + 2)</b>, direct impact and fast feedback
 
 ## WHY_NARRATIVE
-I want to work at Influee because it is exactly the kind of full-stack, product-focused role I am looking for: a small, fast-moving team where one person owns a feature from the PostgreSQL schema, through a clean API, all the way to the React/Next.js interface the client actually uses.
+I am applying because SAFRA combines the two things I want in my next role: building a product of my own rather than delivering tickets for someone else's backlog, and using AI as a genuine multiplier while still understanding and owning the code that ships.
 
-My background is a rare mix of design and engineering. I started in design, UX and visual communication before moving into development, so I turn designs into high-quality, responsive UI components quickly — and I think about how a user experiences a product, not only how it is built. That is a real advantage on a platform built around rich media content.
+My background is a mix of design and engineering. I started in design and UX before moving into development, so I can take an idea, shape the product and UX, design the database and API, and ship the React/Next.js interface — end to end. I have built a two-sided marketplace with search, real-time chat, scheduling, roles, admin tooling and Stripe payments. That is close to the problems a precious-metals trading platform has: accounts and verification flows, live data, orders, payments, balances and an interface people must trust with money.
 
-Technically I work end to end with TypeScript, React, Next.js, Node.js, Python (Flask, FastAPI) and PostgreSQL. I care about writing efficient APIs and database access that does not quietly turn into hundreds of queries, and I like working close to SQL — understanding how queries execute and keeping them fast rather than hiding behind an ORM. I have built real-time chat, booking, scheduling, payments (Stripe) and dashboard-style interfaces, and I integrate external services such as payments, e-mail and cloud storage.
+I work AI-first every day. I use Cursor, Claude Code and ChatGPT to move faster, but I treat their output as a draft: I read it, test it, check edge cases, permissions and data integrity, and improve it. I am comfortable with TypeScript, React, Next.js, Node.js, Python, PostgreSQL and cloud deployment, and I am especially interested in LLM APIs, agents, RAG and MCP — the layer that can make a product like SAFRA smarter, not just prettier.
 
-I am also genuinely interested in <b>AI features</b>, especially LLM-based assistants and semantic search with embeddings, and I would love to help bring that next layer to a UGC product. Influee's deep-work culture and full-remote flexibility fit how I do my best work: focused, autonomous and shipping.
+What I can offer SAFRA is not just code: I will bring product ideas, question the flow, listen to users, measure what works and take responsibility for outcomes. I would like to grow with the product and, if I earn it, take a bigger stake in what we build.
 
 ## REQUIRED_HEADING
-What They're Looking For
+What SAFRA Is Looking For
 
 ## REQUIRED_ITEMS
-<li>At least <b>2 years of frontend and backend</b> development experience</li>
-<li>Required experience with <b>React and Next.js</b></li>
-<li>Solid backend experience with <b>Node.js and TypeScript</b></li>
-<li>Good <b>SQL and PostgreSQL</b> — understanding how queries execute and keeping them fast, without hiding behind an ORM</li>
-<li>Strong <b>HTML, CSS, JavaScript and Git</b></li>
-<li>Experience building <b>web applications or dashboards</b></li>
-<li>Able to work <b>independently and deliver on agreed deadlines</b></li>
-<li>Comfortable in a <b>fast-moving startup environment</b></li>
+<li><b>Technical education</b> — Faculty of Natural Sciences; Master's degree (Liverpool, UK)</li>
+<li><b>JavaScript/TypeScript, HTML and CSS</b> — advanced, used daily</li>
+<li><b>React, Next.js and Tailwind</b> — production experience, including Next.js 15 App Router</li>
+<li><b>Backend:</b> Node.js, REST APIs, authentication and third-party integrations</li>
+<li><b>SQL and databases:</b> PostgreSQL, Prisma, schema design, indexing and query performance</li>
+<li><b>Git/GitHub</b> plus deployment: Linux, Docker, Fly.io, AWS, Cloudflare and Traefik</li>
+<li><b>AI tools in practice:</b> Cursor, Claude Code and ChatGPT — daily, with review of the output</li>
+<li><b>UX/UI sense</b> — design background and a habit of shipping user-friendly interfaces</li>
+<li><b>Debugging and independence</b> — reading unfamiliar code, finding the cause and fixing it</li>
 
 ## PREFERRED_HEADING
-Bonus Points
+Bonus Points — What I Also Bring
 
 ## PREFERRED_ITEMS
-<li>Building <b>SaaS dashboard</b> interfaces</li>
-<li>Backend work with <b>Python, Flask and FastAPI</b> alongside Node.js</li>
-<li><b>Leading multiple features or projects</b> end to end</li>
-<li>Interest in <b>AI features</b>: LLM-based assistants, semantic search and embeddings</li>
-<li>Integrating external services: <b>payments, e-commerce, e-mail, cloud storage</b></li>
+<li><b>Python</b> — Flask, FastAPI, data-processing scripts and web scraping</li>
+<li><b>Docker and Linux</b> — containerized services, systemd, reverse proxies and server setup</li>
+<li><b>LLM APIs and AI features</b> — assistants, embeddings, semantic search and RAG-style retrieval</li>
+<li><b>AI agents and MCP</b> — hands-on with agent workflows and tool integration</li>
+<li><b>Payments and integrations</b> — Stripe checkout and webhooks, e-mail, storage and maps</li>
+<li><b>Product mindset</b> — monetization, funnels, marketplace mechanics and a design eye</li>
